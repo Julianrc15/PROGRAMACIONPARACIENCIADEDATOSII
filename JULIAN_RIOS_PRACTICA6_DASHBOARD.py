@@ -7,7 +7,7 @@ from sklearn.metrics import roc_curve, auc
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
-df_final= pd.read_csv("data\\df_final_ajustado.csv")
+df_final= pd.read_csv("data\\datos_dashboard.csv")
 
 app = dash.Dash(__name__)
 
