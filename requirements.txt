@@ -13,7 +13,7 @@ dash==2.16.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-datashape==0.5.4
+datashape==0.5.2
 et-xmlfile==1.1.0
 fonttools==4.25.0
 inflection==0.5.1
