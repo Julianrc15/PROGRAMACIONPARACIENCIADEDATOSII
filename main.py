@@ -14,7 +14,7 @@ app = dash.Dash(__name__)
 # Estilo del dropdown
 dropdown_style = {
     'width': '100%',
-    'color': '#DAF7A6'
+    
 }
 
 # Definir el diseño del dashboard
@@ -119,4 +119,4 @@ def update_plots(selected_categoria):
 
 # Ejecutar la aplicación Dash
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(jupyter_mode="tab")
