@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from jupyter_dash import JupyterDash
 
-df_final = pd.read_csv("PROGRAMACIONPARACIENCIADEDATOSII\data\datos_dashboard.csv")
+df_final = pd.read_csv("data/datos_dashboard.csv")
 
 app = JupyterDash(__name__)
 
