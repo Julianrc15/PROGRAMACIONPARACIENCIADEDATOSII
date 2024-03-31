@@ -5,7 +5,7 @@ backports.weakref==1.0.post1
 brotlipy==0.7.0
 category-encoders==2.6.3
 clyent==1.2.1
-conda-verify==3.4.2
+
 constantly==15.1.0
 cssselect==1.1.0
 daal4py==2023.1.1
