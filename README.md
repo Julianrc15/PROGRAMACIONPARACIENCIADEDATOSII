@@ -3,6 +3,8 @@
 
 ## Predicción de Rentabilidad en Fondos de Inversión Colombianos
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Julianrc15/PROGRAMACIONPARACIENCIADEDATOSII/HEAD?labpath=JULIAN_RIOS_PRACTICA6_DASHBOARD.py)
+
 Conclusiones sobre la Predicción de Rentabilidad en Fondos de Inversión Colombianos¶
 El análisis y predicción de la rentabilidad de los fondos de inversión colombianos es un proceso crucial para los inversionistas y gestores de carteras en el mercado financiero. A través de técnicas de análisis de datos y modelado predictivo, hemos explorado este desafío con el objetivo de proporcionar información valiosa para la toma de decisiones de inversión.
 
