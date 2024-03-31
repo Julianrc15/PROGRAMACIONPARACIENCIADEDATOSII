@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
 jupyter lab build --minimize=False
+#!/bin/bash
+python main.py
