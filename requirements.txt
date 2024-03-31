@@ -54,7 +54,7 @@ queuelib==1.5.0
 
 retrying==1.3.4
 
-scikit-learn-intelex==20230426.121932
+scikit-learn-intelex==2024.2.0
 scipy==1.11.1
 
 TBB==0.2
