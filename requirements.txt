@@ -6,7 +6,6 @@ category-encoders==2.6.3
 clyent==1.2.1
 constantly==15.1.0
 cssselect==1.1.0
-daal4py==2023.1.1
 dash==2.16.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
